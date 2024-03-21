@@ -1,0 +1,15 @@
+*venv
+venv
+*.sqlite3
+.DS_Store
+.env
+.idea
+*__pycache__
+*.pyc
+__pycache__/
+*pdf
+*.out
+*.json
+*chats
+*chats/
+token.json
